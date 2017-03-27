@@ -21,6 +21,6 @@
       <h3>Hope you like it!!</h3><br>
       <center><button id="dntrigger">Click</button></center>
     </div>
-    <script src="/Projects Javascript/Notification software/javascript/script.js"></script>
+    <script src="/script.js"></script>
   </body>
 </html>
