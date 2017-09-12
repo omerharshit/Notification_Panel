@@ -1,6 +1,6 @@
 /*
 Copyright (c) 2015 Harshit Omer
-(http://www.harshitomer.me/)
+(http://www.harshitomer.tk/)
 All Rights Reserved.
 */
 
